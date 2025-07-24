@@ -10,4 +10,5 @@ TEAM MEMBERS:
 
 24CSEAIML230 - 24UG010725 - Hara Prasad Sahu - 24cseaiml230.haraprasadsahu@giet.edu
 
+24CSEAIML209 - 24UG010705 - Pratik Kumar Nayak - 24cseaiml209.pratikkumarnayak@giet.edu
 
